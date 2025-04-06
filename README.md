@@ -1,1 +1,2 @@
-# DL_Assignment_4
+# Deep Learning Assignment #4
+Liam McGoldrick
